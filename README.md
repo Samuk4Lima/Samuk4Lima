@@ -9,7 +9,7 @@ I'm a tech enthusiast, it's really inspiring knowing that it allows you to creat
 * 🌍  I'm based in Recife - Pernambuco
 * ✉️  You can contact me at [samuk4lima@gmail.com](mailto:samuk4lima@gmail.com)
 * 🧠  I'm learning RectJS and Databases sooner.
-* 🤝  I'm open to collaborating on open-source projects, games, web/frontend and backend
+* 🤝  I'm open to collaborating on open-source projects, games, web/Frontend and Backend.
 * ⚡  you probally know that so... i really love coffee (Java).
 
 <a href="https://www.github.com/samuk4lima" target="_blank" rel="noreferrer"><img
