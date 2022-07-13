@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/samuk4lima?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/samuk4lima"><img src="https://github-readme-stats.vercel.app/api?username=samuk4lima&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="samuk4lima's GitHub stats" /></a>
+<a href="http://www.github.com/samuk4lima"><img src="https://github-readme-stats.vercel.app/api?username=samuk4lima&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="samuk4lima's GitHub stats" /></a>
 
 <a href="http://www.github.com/samuk4lima"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samuk4lima&stroke=ffffff&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
